@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+
+a.button {
+  margin: 0.5rem 0.5rem;
+    padding: 0.5rem 0.8rem;
+    border: 1px solid #20437c;
+    border: 1px solid #931515;
+    border-radius: 5%;
+    background: #ddeaff;
+    background: #0101015f;
+
+}  
+
+a {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+
+
+}
+
+a {
+  margin: 0.5rem 0.5rem;
+  padding: 0.5rem 0.8rem;
+  border: 1px solid #20437c;
+  border: 1px solid #931515;
+  border-radius: 5%;
+  background: #ddeaff;
+  background: #0101015f;
+}
+
+h1 {
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+
+
+
+
+
+
+
+
+
